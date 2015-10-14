@@ -1,0 +1,9 @@
+{
+	"name": "slack-team-randomizer",
+	"version": "0.1.0",
+	"description": "A library for randomizing a group or channel into teams",
+	"main": "./main",
+	"dependencies": {
+		"slack-client": ">= 1.4.1"
+	}
+}
